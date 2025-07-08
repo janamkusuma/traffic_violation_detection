@@ -9,6 +9,7 @@ import base64
 import time
 import pandas as pd
 
+
 st.set_page_config(
     page_title="🚦 Red Light Violation Detection",
     page_icon="🚦",
