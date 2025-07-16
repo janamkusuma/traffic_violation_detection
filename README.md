@@ -70,4 +70,10 @@ Install dependencies:
 
 pip install -r requirements.txt
 
+Credits
+Built with Ultralytics YOLOv8.
+
+UI powered by Streamlit.
+
+Video conversion with FFmpeg.
 
